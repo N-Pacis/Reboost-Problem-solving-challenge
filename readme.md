@@ -1,6 +1,3 @@
-# Reboost Backend Challenge
-This is a rest api system that enables users to login and register and after that they can share their thoughts to the world by creating a post. This was developed as part of taking Reboost Backend Challenge
-
 ## Installation
     - Clone The Repository
     
